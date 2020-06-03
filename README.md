@@ -6,7 +6,7 @@ notes for read 201
 ## HTML
 - You can use <b> to bold in HTML
 - You can use <i> to italic in HTML
-- You can use <sup> used for raising number example 4th  <sub> does the opposite in HTML
+- You can use < sup > used for raising number example 4th  <sub> does the opposite in HTML
 - You can use <br /> to make a line break in HTML
 - You can use <cite> to cite something in HTML
 - You can use <address can be used to > to bold in HTML
