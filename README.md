@@ -10,7 +10,7 @@ notes for read 201
 - You can use <br /> to make a line break in HTML
 - You can use <cite> to cite something in HTML
 - You can use <address can be used to > to bold in HTML
-- You can use <del>  use to cross out a wordin HTML
+- You can use < del >  use to cross out a wordin HTML
 ## CSS 
 - Universal Selector is *{}
 - Type selector is .element tag
@@ -23,4 +23,4 @@ notes for read 201
 - Variable value
 - = is a assignment operator
 - Numeric data type is a number
-= String is when you combine a numeric value and another value
+- = String is when you combine a numeric value and another value
