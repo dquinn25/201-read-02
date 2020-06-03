@@ -10,7 +10,7 @@ notes for read 201
 - You can use <br /> to make a line break in HTML
 - You can use <cite> to cite something in HTML
 - You can use <address can be used to > to bold in HTML
-- You can use < del >  use to cross out a wordin HTML
+- You can use < del >  use to cross out a word in HTML
 ## CSS 
 - Universal Selector is *{}
 - Type selector is .element tag
